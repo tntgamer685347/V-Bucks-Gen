@@ -1,1 +1,6 @@
-Common it isnt that hard
+Start main.py
+
+
+Then input your int
+
+then start!
